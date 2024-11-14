@@ -1,5 +1,4 @@
 
-
 # Snippet Manager 🧑‍💻
 
 ## Overview
@@ -20,6 +19,26 @@
 - **Security**
   - Passwords are hashed and stored securely.
   - Security question available for account recovery.
+
+## Screenshots
+
+Below are some screenshots showcasing the core features of the Snippet Manager:
+
+1. **Login Screen**  
+   ![Login Screen](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20215733.png)
+   _Login page for user authentication._
+
+2. **Snippet Addition**  
+   ![Add Snippet](path_to_add_snippet_screenshot.png)  
+   _Add new code snippets with programming language, tags, and description._
+
+3. **Snippet List**  
+   ![Snippet List](path_to_snippet_list_screenshot.png)  
+   _View all stored snippets, filterable by language or tags._
+
+4. **Export Snippets to PDF**  
+   ![Export to PDF](path_to_pdf_export_screenshot.png)  
+   _Generate a PDF containing all saved snippets._
 
 ## Getting Started
 
@@ -137,3 +156,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+**Note:** Replace the image paths (e.g., `path_to_login_screenshot.png`) with actual paths to the screenshots you've captured for your application.
+
+Let me know if you need further refinements or additional details!
