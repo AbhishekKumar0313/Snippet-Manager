@@ -1,6 +1,4 @@
-Here's a professional, detailed README for your **Snippet Manager** project. This version covers all essential aspects, including purpose, features, setup instructions, usage examples, security practices, contribution guidelines, and more.
 
----
 
 # Snippet Manager 🧑‍💻
 
