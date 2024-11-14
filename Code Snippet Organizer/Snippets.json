@@ -1,0 +1,38 @@
+{
+    "abhi@gmail.com": [
+        {
+            "id": 1,
+            "Language": "Python",
+            "Description": "Palindrome",
+            "Code": "def is_palindrome(string):\n    # Remove spaces and convert to lowercase\n    cleaned_string = ''.join(char.lower() for char in string if char.isalnum())\n    return cleaned_string == cleaned_string[::-1]\n\n# Example usage\nprint(is_palindrome(\"A man a plan a canal Panama\"))  # Output: True\n"
+        },
+        {
+            "id": 2,
+            "Language": "Python",
+            "Description": "Fibonacci",
+            "Code": "def fibonacci(n):\n    sequence = [0, 1]\n    for i in range(2, n):\n        sequence.append(sequence[i - 1] + sequence[i - 2])\n    return sequence[:n]\n\n# Example usage\nprint(fibonacci(10))  # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]\n"
+        }
+    ],
+    "abhay@gmail.com": [
+        {
+            "id": 1,
+            "Language": "def reset_password(username, users_data):",
+            "Description": "",
+            "Code": "    if username in users_data:\n        old_password = getpass.getpass(\"Enter old password: \")\n        if check_password(users_data[username][\"password\"], old_password):\n            new_password = getpass.getpass(\"Enter new password: \")\n            if check_password_strength(new_password):\n                users_data[username][\"password\"] = hash_password(new_password)[1]\n                print(\"Password updated successfully!\")\n            else:\n                print(\"New password does not meet strength criteria.\")\n        else:\n            print(\"Old password is incorrect.\")\n    else:\n        print(\"User not found.\")\ndef reset_password(username, users_data):\n    if username in users_data:\n        old_password = getpass.getpass(\"Enter old password: \")\n        if check_password(users_data[username][\"password\"], old_password):\n            new_password = getpass.getpass(\"Enter new password: \")\n            if check_password_strength(new_password):\n                users_data[username][\"password\"] = hash_password(new_password)[1]\n                print(\"Password updated successfully!\")\n            else:\n                print(\"New password does not meet strength criteria.\")\n        else:\n            print(\"Old password is incorrect.\")\n    else:\n        print(\"User not found.\")\ndef reset_password(username, users_data):\n    if username in users_data:\n        old_password = getpass.getpass(\"Enter old password: \")\n        if check_password(users_data[username][\"password\"], old_password):\n            new_password = getpass.getpass(\"Enter new password: \")\n            if check_password_strength(new_password):\n                users_data[username][\"password\"] = hash_password(new_password)[1]\n                print(\"Password updated successfully!\")\n            else:\n                print(\"New password does not meet strength criteria.\")\n        else:\n            print(\"Old password is incorrect.\")\n    else:\n        print(\"User not found.\")\n"
+        }
+    ],
+    "deepak@gmail.com": [
+        {
+            "id": 1,
+            "Language": "java",
+            "Description": "jaava",
+            "Code": "def add_snippet(self, title, code):\n    self.set_font('Arial', 'B', 12)\n    self.cell(0, 10, title, ln=True)\n    self.ln(5)\n    self.set_font('Courier', '', 8)  # Smaller font for large code blocks\n    self.multi_cell(0, 6, code)      # Smaller line height for better spacing\n    self.ln(5)\n"
+        },
+        {
+            "id": 2,
+            "Language": "python",
+            "Description": "python",
+            "Code": "def add_snippet(self, title, code):\n    self.set_font('Arial', 'B', 12)\n    self.cell(0, 10, title, ln=True)\n    self.ln(5)\n    self.set_font('Courier', '', 8)  # Smaller font for large code blocks\n    self.multi_cell(0, 6, code)      # Smaller line height for better spacing\n    self.ln(5)\n"
+        }
+    ]
+}

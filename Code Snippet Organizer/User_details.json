@@ -1,0 +1,22 @@
+{
+    "abhi@gmail.com": [
+        "abhi",
+        "$pbkdf2-sha256$29000$.t9bi1FqrfW.V0oJoXSu1Q$VC6.mqdxgSq9vZj15CZMxeUuj10NUvvXYUi61hlhr.c",
+        "nishu"
+    ],
+    "abhay@gmail.com": [
+        "abhay",
+        "$pbkdf2-sha256$29000$OkfI2ft/DwHgHANASGlt7Q$mT8G3Fm2l8l3cGxJOuObiCH1NbZhkmklOL7tc3c6GUk",
+        "shashi"
+    ],
+    "akshay@gmail.com": [
+        "akshay",
+        "$pbkdf2-sha256$29000$sjbGuFdKqZUSgvB.7x0DoA$/vSMo28M5txr04cP432r/aCfmvlMjIJChjNgcD2Fo5M",
+        "manish"
+    ],
+    "deepak@gmail.com": [
+        "deepak",
+        "$pbkdf2-sha256$29000$JoTQmrP2XitFKGWsFUIoJQ$U5i7M6J.ZaRL3etMQgIvJ4TpWE1r55oIKeXkoEaIrGU",
+        "dipu"
+    ]
+}
