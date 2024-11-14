@@ -29,17 +29,20 @@ Below are some screenshots showcasing the core features of the Snippet Manager:
    _Login page for user authentication._
 
 2. **Snippet Addition**  
-   ![Add Snippet](path_to_add_snippet_screenshot.png)  
+   ![Add Snippet](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20215842.png)
+   ![Add Snippet](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20215904.png)
    _Add new code snippets with programming language, tags, and description._
 
-3. **Snippet List**  
-   ![Snippet List](path_to_snippet_list_screenshot.png)  
-   _View all stored snippets, filterable by language or tags._
-
 4. **Export Snippets to PDF**  
-   ![Export to PDF](path_to_pdf_export_screenshot.png)  
+   ![Export to PDF](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20221315.png)
+   ![Export to PDF](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20221334.png)
    _Generate a PDF containing all saved snippets._
+5. **File Structure**
+   ![Json str](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20215932.png)
+   ![Json str](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20215942.png)
 
+6. **Exist**
+   ![Exist](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20221350.png)
 ## Getting Started
 
 ### Prerequisites
